@@ -4,7 +4,6 @@
 
         private $numero;
 
-        // magic methos
         public function getCPF() {
            return $this->numero;
         }
