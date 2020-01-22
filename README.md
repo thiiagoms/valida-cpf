@@ -1,4 +1,4 @@
-# Validador de CPF :credit_card:!
+# Validador de CPF! :credit_card:
 
 Em um pequeno projeto, tive a necessidade de criar um simples validador de CPF, apesar de existirem milhões de exemplos na internet espero que este pequeno projeto possa um dia ajudar alguém assim como me ajudou! Espero também poder adicionar demais funcionalidades ao projeo como: consultas de CNPJ, DETRAN, etc.
 
