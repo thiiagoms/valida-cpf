@@ -19,7 +19,7 @@ git clone https:github.com/ekkopy/valida-cpf.git
 
  $cpf = new ValidaCpf();
 
- if($cpf->validarCPF("11111111111")):
+ if($cpf->validarCPF("123456789")):
     echo "CPF Valido";
  else:
     echo "CPF Invalido";
