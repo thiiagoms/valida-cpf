@@ -7,7 +7,7 @@ Em um pequeno projeto, tive a necessidade de criar um simples validador de CPF, 
 1 - Clone o projeto na sua pasta de plugins ou onde desejar!
 
 ```
-git clone https:github.com/ekkopy/valida-cpf.git
+git clone https://github.com/ekkopy/valida-cpf.git
 ```
 
 2 - Faça o require na sua classe e após use o método validaCPF!
