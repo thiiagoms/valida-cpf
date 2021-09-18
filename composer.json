@@ -1,0 +1,15 @@
+{
+    "name": "thiiagoms/valida-cpf",
+    "authors": [
+        {
+            "name": "Thiago AKA thiiagoms",
+            "email": "thiagom.devsec@gmail.com",
+            "homepage": "https://github.com/thiiagoms/valida-cpf"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src"
+        }
+    }
+}
