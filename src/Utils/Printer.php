@@ -3,7 +3,9 @@
 namespace Src\Utils;
 
 /**
- * Classe responsavel 
+ * Classe responsavel
+ * por imprimir as mensagens de erro
+ * na validacao
  * 
  * @package Src\Utils
  */
