@@ -5,7 +5,7 @@
      <h1 align="center">Validacao de CPF</h1>
 </p>
 
-
+[PT-BR] 🇧🇷
 Simples validador de CPF para pequenos projetos :) 
 
 - [Dependencias](#Dependencias)
