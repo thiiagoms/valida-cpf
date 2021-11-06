@@ -2,7 +2,7 @@
   <a href="https://github.com/thiiagoms/valida-cpf">
     <img src="assets/card.png" alt="Logo" width="80" height="80">
   </a>
-     <h1 align="center">Validacao de CPF</h1>
+     <h1 align="center">Validação de CPF</h1>
 </p>
 
 [PT-BR] 🇧🇷
